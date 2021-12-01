@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "roupas_aluguel/1.0.0": {
+        "runtime": {
+          "roupas_aluguel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "roupas_aluguel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

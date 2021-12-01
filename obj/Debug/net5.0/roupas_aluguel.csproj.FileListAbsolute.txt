@@ -1,0 +1,16 @@
+C:\Users\lucas\source\repos\roupas_aluguel\bin\Debug\net5.0\roupas_aluguel.exe
+C:\Users\lucas\source\repos\roupas_aluguel\bin\Debug\net5.0\roupas_aluguel.deps.json
+C:\Users\lucas\source\repos\roupas_aluguel\bin\Debug\net5.0\roupas_aluguel.runtimeconfig.json
+C:\Users\lucas\source\repos\roupas_aluguel\bin\Debug\net5.0\roupas_aluguel.runtimeconfig.dev.json
+C:\Users\lucas\source\repos\roupas_aluguel\bin\Debug\net5.0\roupas_aluguel.dll
+C:\Users\lucas\source\repos\roupas_aluguel\bin\Debug\net5.0\ref\roupas_aluguel.dll
+C:\Users\lucas\source\repos\roupas_aluguel\bin\Debug\net5.0\roupas_aluguel.pdb
+C:\Users\lucas\source\repos\roupas_aluguel\obj\Debug\net5.0\roupas_aluguel.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\roupas_aluguel\obj\Debug\net5.0\roupas_aluguel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\roupas_aluguel\obj\Debug\net5.0\roupas_aluguel.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\roupas_aluguel\obj\Debug\net5.0\roupas_aluguel.AssemblyInfo.cs
+C:\Users\lucas\source\repos\roupas_aluguel\obj\Debug\net5.0\roupas_aluguel.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\roupas_aluguel\obj\Debug\net5.0\roupas_aluguel.dll
+C:\Users\lucas\source\repos\roupas_aluguel\obj\Debug\net5.0\ref\roupas_aluguel.dll
+C:\Users\lucas\source\repos\roupas_aluguel\obj\Debug\net5.0\roupas_aluguel.pdb
+C:\Users\lucas\source\repos\roupas_aluguel\obj\Debug\net5.0\roupas_aluguel.genruntimeconfig.cache
